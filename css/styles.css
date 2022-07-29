@@ -376,10 +376,6 @@ color: var(--white-text-color);
     margin-bottom: 9px;
 }
 
-/* .footer-tel{
-    margin-bottom: 60px;
-} */
-
 .footer-mail,
 .footer-tel{
     color: var(--contact-text-color);
