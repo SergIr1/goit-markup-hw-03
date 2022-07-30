@@ -433,10 +433,6 @@ color: var(--white-text-color);
     margin-left: 8px;
 }
 
-/* .section-secondory{
-padding-top: 34px;
-} */
-
 .card-set{
 display: flex;
 flex-wrap: wrap;
@@ -451,10 +447,6 @@ margin-top: -30px;
     margin-left: 30px;
     margin-top: 30px;
 }
-
-/* .card-content{
-    min-width: 322px;
-} */
 
 .card-content{
     border-bottom: 1px solid var(--border-cards-color);
